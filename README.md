@@ -1,4 +1,4 @@
-This repo contains basic implementations of a few optimization algorithms. The primary purpose of this repo is for me to learn and have bare bones implementations sitting around for future use.
+This repo contains basic implementations of a few optimization algorithms (see [**this blog post**](https://idc9.github.io/optimization/2017/05/17/basic-optimization.html)). The primary purpose of this repo is for me to learn and have bare bones implementations sitting around for future use.
 
 The important folders are:
 
@@ -15,4 +15,7 @@ Notation: since I am a statistician I am using beta for the function variables, 
 
 Most of the code is based on the lecture notes from STOR 892: Convex Optimization. Some additional useful references include
 
-- [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html) by Sebastian Ruder
+- [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html) by Sebastian Ruder (this is a good high level intro)
+- [Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838) by Léon Bottou, Frank E. Curtis, and Jorge Nocedal (more indepth overview of first/second order and stochastic methods)
+
+
